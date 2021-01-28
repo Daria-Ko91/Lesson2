@@ -1,0 +1,11 @@
+.ol{
+    margin: 20px 40px 40px 60px;
+}
+.ul{
+    margin:40px 40px 40px 60px;
+    widows: 20px;
+    height: 100px;
+    border: 6px dashed blue;
+    box-sizing: border-box;
+    overflow: scroll; 
+}
